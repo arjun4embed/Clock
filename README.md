@@ -1,2 +1,2 @@
-# Clock
-DS3231 based clock with menu manager to set time,date and alarm
+# DS3231 BASED RTC CLOCK
+   DS3231 based rtc clock implementation with menu to configure time,date and alarm
