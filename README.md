@@ -1,4 +1,6 @@
 # DS3231 BASED RTC CLOCK
+
+## Description
    DS3231 based rtc clock implementation with menu to configure time,date and alarm
    
 ### Menu items 
