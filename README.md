@@ -16,8 +16,13 @@
   
         void ds3231_get_date(I2C_handle_t *pI2CHandle,RTC_Date_t *pdate);
         void ds3231_set_date(I2C_handle_t *pI2CHandle,RTC_Date_t *pdate);
-        
- Youtube : https://www.youtube.com/watch?v=t4U2aIPSHiM&feature=youtu.be
+  
+  
+## Useful links
+   
+  
+* [stm32f407xx driver](https://github.com/arjun4embed/stm32f407xx-driver)
+* [youtube](https://youtu.be/t4U2aIPSHiM)
 
 
 
