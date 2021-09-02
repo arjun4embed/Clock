@@ -24,7 +24,7 @@
    
   
 * [stm32f407xx driver](https://github.com/arjun4embed/stm32f407xx-driver)
-* [youtube](https://youtu.be/t4U2aIPSHiM)
+* [youtube](https://youtu.be/9XMcYJlmQfo)
 
 
 
